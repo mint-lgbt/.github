@@ -7,7 +7,7 @@ We've been doing this for a while, and we're planning on continuing that streak 
 
 Since we heavily rely on open-source technology, we release almost all of our projects under open-source licenses.
 
-  * [Fedimint](https://github.com/mint-lgbt/fedimint) - Our fork of Akkoma
+  * [Fedimint](https://github.com/mint-lgbt/fedimint) - Our fork of Calckey
   * [Polycule](https://github.com/mint-lgbt/polycule) - An open-source Git hosting service inspired by early-2010s GitHub _(currently private until ready)_
   * [mint.lgbt's website](https://github.com/mint-lgbt/website) - The source code to our website
 
